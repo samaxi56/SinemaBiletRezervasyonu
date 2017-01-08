@@ -1,3 +1,3 @@
-Görsel Programlama2
-Proje Adý:Sinema Bilet Rezervasyonu
-ögrNo:156901032
+GÃ¶rsel Programlama2
+Proje Adi:Sinema Bilet Rezervasyonu
+Ã¶grNo:156901032
